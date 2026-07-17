@@ -10,6 +10,7 @@ A backend REST API for a food ordering system built with Spring Boot. Supports r
 - Lombok
 - JUnit 5 + Mockito
 - Swagger / OpenAPI
+- HTML/CSS/JavaScript (Frontend)
 
 ## Features
 - CRUD APIs for Restaurants and Menu Items
@@ -17,6 +18,7 @@ A backend REST API for a food ordering system built with Spring Boot. Supports r
 - Order placement with automatic total calculation
 - Order status tracking (PLACED → CONFIRMED → PREPARING → OUT_FOR_DELIVERY → DELIVERED)
 - Global exception handling
+-  Simple responsive frontend to browse restaurants and menu items
 - Unit tests for order service logic
 
 ## Project Structure
